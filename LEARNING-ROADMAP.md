@@ -15,11 +15,11 @@ Not everyone starts from the same place. Take this quick self-assessment to find
 
 **Answer these questions honestly:**
 
-- [ ] I can start Claude Code and have a conversation (`claude`)
+- [x] I can start Claude Code and have a conversation (`claude`)
 - [ ] I have created or edited a CLAUDE.md file
-- [ ] I have used at least 3 built-in slash commands (e.g., /help, /compact, /model)
+- [x] I have used at least 3 built-in slash commands (e.g., /help, /compact, /model)
 - [ ] I have created a custom slash command or skill (SKILL.md)
-- [ ] I have configured an MCP server (e.g., GitHub, database)
+- [x] I have configured an MCP server (e.g., GitHub, database)
 - [ ] I have set up hooks in ~/.claude/settings.json
 - [ ] I have created or used custom subagents (.claude/agents/)
 - [ ] I have used print mode (`claude -p`) for scripting or CI/CD
